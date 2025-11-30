@@ -1,4 +1,5 @@
 // app.js
+// Trigger for GitHub Actions CI/CD
 const http = require('http');
 
 const hostname = '0.0.0.0';
